@@ -81,6 +81,17 @@ A: Friday
 
 ---
 
+## ⚡ How to Run
+
+1. Clone the repo
+git clone https://github.com/Adityaaa7/Smartmeet_AI
+
+2. Install dependencies
+npm install
+
+3. Run the app
+npm run dev
+
 ## 🔐 Design Considerations
 
 - Efficient handling of large transcripts using chunking  
